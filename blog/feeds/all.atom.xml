@@ -68,7 +68,24 @@ Github Pages服務可以讓 Github 帳號的擁有者, 使用"帳號.github.io"�
 &lt;p&gt;操作結果:&lt;/p&gt;
 &lt;p&gt;https://mde.tw/wcm2024/downloads/words_progit.html&lt;/p&gt;
 &lt;p&gt;https://mde.tw/wcm2024/downloads/words_w6_git_add_except.html&lt;/p&gt;
-&lt;p&gt;wcm2024 5j w6 progit vocabulary check up 教學影片&lt;/p&gt;</content><category term="五專"></category><category term="w6"></category></entry><entry><title>WCM 五專第十周課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-22T16:28:00+08:00</published><updated>2024-05-27T08:48:21+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-04-22:./wcm-5j-w10.html</id><summary type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
+&lt;p&gt;wcm2024 5j w6 progit vocabulary check up 教學影片&lt;/p&gt;</content><category term="五專"></category><category term="w6"></category></entry><entry><title>WCM 五專第七周課程內容</title><link href="./wcm-w7.html" rel="alternate"></link><published>2024-05-13T00:00:00+08:00</published><updated>2024-06-03T08:31:12+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-05-13:./wcm-w7.html</id><summary type="html">&lt;h1&gt;第七周&lt;/h1&gt;
+</summary><content type="html">&lt;h1&gt;第七周&lt;/h1&gt;
+
+
+&lt;p&gt;練習利用程式建立單字查詢網頁
+wcm2024 5j w7 利用 Python 建立 Javascript 電子書的單字查詢超文件，利用 2.txt 與 1.txt Python 程式, 從下列電子書建立英文單字查詢網頁:&lt;/p&gt;
+&lt;p&gt;2023 Programming for Absolute Beginners - Using the JavaScript Programming Language&lt;/p&gt;
+&lt;p&gt;單字查詢網頁&lt;/p&gt;
+&lt;p&gt;Brython 程式
+首先, 對 ChatGPT 提問: Brython 是甚麼程式語言? 該如何使用?&lt;/p&gt;
+&lt;p&gt;回答:&lt;/p&gt;
+&lt;p&gt;Brython 是一種在瀏覽器中運行的 Python 解譯器。它允許您在網頁上使用 Python 來編寫 Web-based 前端程式，而無需安裝任何套件或外部解譯器。&lt;/p&gt;
+&lt;p&gt;要使用 Brython，您可以按照以下步驟進行：&lt;/p&gt;
+&lt;p&gt;在您的網頁中引入 Brython 的 JavaScript 程式。就可以透過 CDN 或將文件下載到網頁中。
+在 HTML 文件中，使用 &lt;script type="text/python"&gt; 標籤來編寫 Python 程式碼。
+當網頁加載時，Brython 會自動解譯並執行這些 Python 程式碼，並將結果呈現在網頁上。
+如此就可以在瀏覽器中使用 Python 編寫動態網頁，而無需使用 JavaScript。這對於喜歡 Python 語法的開發者來說是一個很好的選擇。&lt;/p&gt;
+&lt;p&gt;再問: 可以舉一個簡單 Brython 程式範例, 從 1 累加到 10, 然後在網頁中以 html 列出運算結果&lt;/p&gt;</content><category term="五專"></category><category term="w7"></category></entry><entry><title>WCM 五專第十周課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-22T16:28:00+08:00</published><updated>2024-05-27T08:48:21+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-04-22:./wcm-5j-w10.html</id><summary type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
 </summary><content type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
 
 
