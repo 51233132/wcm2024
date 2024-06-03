@@ -50,7 +50,25 @@ Github Pages服務可以讓 Github 帳號的擁有者, 使用"帳號.github.io"�
 &lt;p&gt;說明如何建立短網址的 Github Pages 網站教學影片&lt;/p&gt;
 &lt;p&gt;下載 main2.txt 與 static.txt, 其中包含 main2.py 與 static.py, 只要在 Shell 執行 python3 main2.py 就可以執行倉儲內的靜態網站檢視. 另一方面, 若要取消先前執行 python3 main2.py, 只需要在 Shell 頁面按下 ctrl + c, c 代表 cancle 也就是取消. 然後若要執行動態網站，可以在 Shell 執行 python3 main.py 或者使用 Replit 的 Run 按鍵.&lt;/p&gt;
 &lt;p&gt;說明如何在 Replit 檢視靜態網站教學影片&lt;/p&gt;
-&lt;p&gt;說明如何下載 replit_main2.7z 並在倉儲中建立兩個檔案教學影片&lt;/p&gt;</content><category term="五專"></category><category term="w4"></category></entry><entry><title>WCM 五專第十周課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-22T16:28:00+08:00</published><updated>2024-05-27T08:48:21+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-04-22:./wcm-5j-w10.html</id><summary type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
+&lt;p&gt;說明如何下載 replit_main2.7z 並在倉儲中建立兩個檔案教學影片&lt;/p&gt;</content><category term="五專"></category><category term="w4"></category></entry><entry><title>WCM 五專第六周課程內容</title><link href="./wcm-w6.html" rel="alternate"></link><published>2024-05-13T00:00:00+08:00</published><updated>2024-06-03T08:27:36+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-05-13:./wcm-w6.html</id><summary type="html">&lt;h1&gt;第六周&lt;/h1&gt;
+</summary><content type="html">&lt;h1&gt;第六周&lt;/h1&gt;
+
+
+&lt;p&gt;Pro Git 電子書
+假如要較為深入了解 Git, 就 https://git-scm.com/book/en/v2 這本電子書來說, 需要認識多少英文單字?&lt;/p&gt;
+&lt;p&gt;check_dict_from_cdict_net.py (建立英文單字查詢 html 檔案)&lt;/p&gt;
+&lt;p&gt;get_txt_from_pdf.py (從 pdf 檔案中取出文字內容)&lt;/p&gt;
+&lt;p&gt;為了能夠執行 get_txt_from_pdf.py, Replit Python3 程式庫需要分別安裝 fitz 以及 pymupdf 等模組.&lt;/p&gt;
+&lt;p&gt;先安裝 fitz 模組: pip install fitz&lt;/p&gt;
+&lt;p&gt;再安裝 pymupdf 模組: pip install pymupdf&lt;/p&gt;
+&lt;p&gt;目前 get_txt_from_pdf.py 會從 pdf 檔案擷取文字內容並直接列印在 console, 請利用 ChatGPt, 要求將擷取的文字內容存為檔案.&lt;/p&gt;
+&lt;p&gt;請利用上述兩個程式, 以 html 格式整理出上列電子書的英文單字查詢涵義與應用資料.&lt;/p&gt;
+&lt;p&gt;各學員完成上述 Python 程式操作後, 請將過程與結果整理在自己的 wcm2024 課程網站與網誌中.&lt;/p&gt;
+&lt;p&gt;另外, 因為 https://git-scm.com/book/en/v2 可以直接從 git-scm.com 網站下載, 一旦上傳到 downloads 目錄取出英文單字查詢超文件之後, 可以不將這個 18 MB 的檔案放在倉儲內, 根據這裡的說明, 可得知該如何操作.&lt;/p&gt;
+&lt;p&gt;操作結果:&lt;/p&gt;
+&lt;p&gt;https://mde.tw/wcm2024/downloads/words_progit.html&lt;/p&gt;
+&lt;p&gt;https://mde.tw/wcm2024/downloads/words_w6_git_add_except.html&lt;/p&gt;
+&lt;p&gt;wcm2024 5j w6 progit vocabulary check up 教學影片&lt;/p&gt;</content><category term="五專"></category><category term="w6"></category></entry><entry><title>WCM 五專第十周課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-22T16:28:00+08:00</published><updated>2024-05-27T08:48:21+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-04-22:./wcm-5j-w10.html</id><summary type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
 </summary><content type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
 
 
