@@ -41,7 +41,16 @@ chatgpt 使用
 &lt;p&gt;接著下載可攜版(Portable)的 ShareX: https://github.com/ShareX/ShareX/releases, 下載解開壓縮後放入隨身碟.&lt;/p&gt;
 &lt;p&gt;說明如何下載並設定 ShareX 錄製電腦操作過程&lt;/p&gt;
 &lt;p&gt;說明如何利用 ShareX 截圖並放入個人網站&lt;/p&gt;
-&lt;p&gt;針對以上課程內容, 請利用以下留言系統進行討論&lt;/p&gt;</content><category term="五專"></category><category term="w3"></category></entry><entry><title>WCM 五專第十周課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-22T16:28:00+08:00</published><updated>2024-05-27T08:48:21+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-04-22:./wcm-5j-w10.html</id><summary type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
+&lt;p&gt;針對以上課程內容, 請利用以下留言系統進行討論&lt;/p&gt;</content><category term="五專"></category><category term="w3"></category></entry><entry><title>WCM 五專第四周課程內容</title><link href="./wcm-w4.html" rel="alternate"></link><published>2024-05-13T00:00:00+08:00</published><updated>2024-06-03T08:22:22+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-05-13:./wcm-w4.html</id><summary type="html">&lt;h1&gt;第四周&lt;/h1&gt;
+</summary><content type="html">&lt;h1&gt;第四周&lt;/h1&gt;
+
+
+&lt;p&gt;建立個人最短網址網站
+Github Pages服務可以讓 Github 帳號的擁有者, 使用"帳號.github.io"作為倉儲名稱, Github 會自動將此網站設定 Github Pages, 假如此倉儲內部帶有超文件, 則此倉儲對應的網址將會是 https://帳號.github.io&lt;/p&gt;
+&lt;p&gt;說明如何建立短網址的 Github Pages 網站教學影片&lt;/p&gt;
+&lt;p&gt;下載 main2.txt 與 static.txt, 其中包含 main2.py 與 static.py, 只要在 Shell 執行 python3 main2.py 就可以執行倉儲內的靜態網站檢視. 另一方面, 若要取消先前執行 python3 main2.py, 只需要在 Shell 頁面按下 ctrl + c, c 代表 cancle 也就是取消. 然後若要執行動態網站，可以在 Shell 執行 python3 main.py 或者使用 Replit 的 Run 按鍵.&lt;/p&gt;
+&lt;p&gt;說明如何在 Replit 檢視靜態網站教學影片&lt;/p&gt;
+&lt;p&gt;說明如何下載 replit_main2.7z 並在倉儲中建立兩個檔案教學影片&lt;/p&gt;</content><category term="五專"></category><category term="w4"></category></entry><entry><title>WCM 五專第十周課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-22T16:28:00+08:00</published><updated>2024-05-27T08:48:21+08:00</updated><author><name>51233132</name></author><id>tag:None,2024-04-22:./wcm-5j-w10.html</id><summary type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
 </summary><content type="html">&lt;h1&gt;第十周課程內容&lt;/h1&gt;
 
 
